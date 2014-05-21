@@ -1,0 +1,19 @@
+{
+    "plugins": {
+        "phonegap\/cordova.js": [
+
+        ],
+        "monaca.js": [
+
+        ],
+        "phonegap-plugins\/iOSStatusBar": [
+
+        ]
+    },
+    "splash": {
+        "android": {
+            "background": "#cccccc"
+        }
+    },
+    "version": "1.0"
+}
